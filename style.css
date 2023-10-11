@@ -3,3 +3,7 @@
     padding:0px;
     color:red;
 }
+
+.navigation {
+    display: flex;
+}
